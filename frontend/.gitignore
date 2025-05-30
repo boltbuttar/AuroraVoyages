@@ -1,0 +1,6 @@
+# This directory uses the root .gitignore file
+# See the root .gitignore for all ignore patterns
+
+# Frontend-specific ignores
+/public/uploads/*
+!/public/uploads/.gitkeep
